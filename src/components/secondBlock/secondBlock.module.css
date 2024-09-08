@@ -1,0 +1,61 @@
+.SecondBlock{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn1{
+    background: none;
+    border: none;
+    color: #D77474;
+    padding: 10px 0px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.btn1:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.circle1{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    background-color: #E4B366;
+    display: block;
+    border: 30px solid rgb(217, 170, 97);
+    color: white;
+}
+.circle1 img{
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+.circle2{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    background-color: #F05B10;
+    display: block;
+    border: 30px solid rgb(228, 86, 15);
+    color: white;
+}
+.circle2 img{
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+.circle3{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    background-color: #A21010;
+    display: block;
+    border: 30px solid rgb(154, 15, 15);
+    color: white;
+}
+.circle3 img{
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+.block{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}

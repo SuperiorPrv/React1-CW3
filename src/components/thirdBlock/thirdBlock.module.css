@@ -1,0 +1,13 @@
+.block{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    margin-bottom: 70px;
+}
+.block1{
+    width: 35%;
+}
+.block1 h2{
+    font-size: 25px;
+    margin-bottom: 20px;
+}

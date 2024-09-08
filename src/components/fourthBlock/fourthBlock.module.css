@@ -1,0 +1,24 @@
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.block div{
+    width: 40%;
+}
+.block div h1,p{
+    margin-bottom: 10px;
+}
+.block div button{
+    margin-top: 10px;
+    background: none;
+    border: none;
+    padding: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.block div button:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}

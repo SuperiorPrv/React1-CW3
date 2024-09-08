@@ -1,0 +1,53 @@
+.block{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.block div{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.block div p{
+    margin-top: 20px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+form input{
+    width: 400px;
+    padding: 10px;
+}
+form button{
+    margin-left: 10px;
+    padding: 12px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+form button:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px black;
+    transition: 0.5s;
+}
+.btn1{
+    border: none;
+    background: none;
+    color: #D77474;
+    font-size: 17px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.btn1:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+img{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+h1{
+    margin-bottom: 40px;
+}

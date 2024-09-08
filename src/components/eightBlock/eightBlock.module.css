@@ -1,0 +1,28 @@
+.block{
+    text-align:center;
+    background-color: #DBDBDB1A;
+    padding-top: 20px;
+}
+.ii{
+    width: 50px;
+}
+.block div{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.block div div{
+    display: block;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h5{
+    margin-bottom: 10px;
+}
+.sp1{
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}

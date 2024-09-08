@@ -1,0 +1,53 @@
+.FirstBlock{
+    background: url("/src/assets/images/2.png");
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 80px 0px;
+}
+.left{
+    width: 40%;
+}
+.right{
+    width: 50%;
+}
+.right img{
+    width: 100%;
+    height: 100%;
+}
+.btn1{
+    background: none;
+    border: none;
+    color: #D77474;
+    padding: 10px 0px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.btn1:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.left h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.left p{
+    color: #555;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.btn2{
+    border: none;
+    background-color: #AC1313;
+    color: white;
+    padding: 20px 25px;
+    cursor: pointer;
+}
+.btn2:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px #AC1313;
+}
